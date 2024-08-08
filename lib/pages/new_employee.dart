@@ -137,6 +137,7 @@ class _NewEmployeeState extends State<NewEmployee> {
             ElevatedButton(
               onPressed: () async {
                 String id = randomAlphaNumeric(16);
+                Navigator.pop(context);
                 Map<String, dynamic> employeeInfoMap = {
                   "name": nameController.text,
                   "age": ageController.text,
