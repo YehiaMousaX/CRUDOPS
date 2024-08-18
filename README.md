@@ -60,7 +60,7 @@ These instructions will help you set up your copy of the project and get it runn
 ### Screenshots
 
 ![Screenshot 1](screenShots\home.png)
-Home Screen
+#### Home Screen
 
 This is the main screen of the CRUDOPS application where users can view all employee entries. Each employee's details, including their name, age, and city, are displayed in a card format.
 
