@@ -7,7 +7,7 @@ A simple Flutter application that performs CRUD (Create, Read, Update, Delete) o
 
 ## Features
 
-- Add new employee entries to Firestore.
+- Add new employee entries to the system.
 - View a list of employees in real-time.
 - Update existing employee information.
 - Delete employee entries.
