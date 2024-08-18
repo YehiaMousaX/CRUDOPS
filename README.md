@@ -54,10 +54,10 @@ These instructions will help you set up your copy of the project and get it runn
 
 ### Usage
 
-- **Add Employee:** Click on the "Add Employee" button and fill in the details.
+- **Add Employee:** Click the "+" button and fill in the details.
 - **View Employees:** The home screen displays a list of employees in real-time.
 - **Update Employee:** Click on an employee entry to edit their information.
-- **Delete Employee:** Swipe left on an employee entry to delete it.
+- **Delete Employee:** Press the trash icon to delete an employee.
 
 
 ### Screenshots
