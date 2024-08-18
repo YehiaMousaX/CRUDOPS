@@ -1,3 +1,6 @@
+
+
+
 # Flutter Firebase CRUDOPS
 
 A simple Flutter application that performs CRUD (Create, Read, Update, Delete) operations using Firebase Firestore. This project demonstrates how to integrate a Flutter application with Firebase to manage employee data dynamically.
@@ -59,7 +62,7 @@ These instructions will help you set up your copy of the project and get it runn
 
 ### Screenshots
 
-![Screenshot 1](screenShots\home.png)
+![home](https://github.com/user-attachments/assets/e597a468-14f2-4857-9fcf-7b32c1d94f19)
 #### Home Screen
 
 This is the main screen of the CRUDOPS application where users can view all employee entries. Each employee's details, including their name, age, and city, are displayed in a card format.
@@ -72,7 +75,7 @@ This is the main screen of the CRUDOPS application where users can view all empl
 
 
 
-![Screenshot 2](screenShots\edit.png)
+![edit](https://github.com/user-attachments/assets/91341f8a-eb45-4c6a-b9bd-5bf901c46feb)
 #### Edit Employee Info Screen
 
 This screen allows users to edit the details of an existing employee.
@@ -81,7 +84,7 @@ This screen allows users to edit the details of an existing employee.
 
 After making the desired changes, the user can tap the Edit button at the bottom to save the updates to Firebase Firestore. The updated information will then be reflected in the employee list on the home screen.
 
-![Screenshot 3](screenShots\add.png)
+![add](https://github.com/user-attachments/assets/fa757f32-5815-47e9-84ca-98f9ffec62fd)
 
 #### Add Employee Screen
 
